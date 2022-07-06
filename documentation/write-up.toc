@@ -1,0 +1,211 @@
+\babel@toc {english}{}\relax 
+\thispagestyle {empty}
+\thispagestyle {empty}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Structure}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Program}{1}{subsubsection.1.1.1}%
+\contentsline {paragraph}{}{1}{section*.2}%
+\contentsline {paragraph}{}{1}{section*.3}%
+\contentsline {subsubsection}{\numberline {1.1.2}Document}{1}{subsubsection.1.1.2}%
+\contentsline {paragraph}{}{1}{section*.4}%
+\contentsline {paragraph}{}{1}{section*.5}%
+\contentsline {subsection}{\numberline {1.2}Technologies Used}{1}{subsection.1.2}%
+\contentsline {paragraph}{Code Base and IDE:}{1}{section*.6}%
+\contentsline {paragraph}{External Libraries/Dependencies:}{1}{section*.7}%
+\contentsline {subsection}{\numberline {1.3}How to Run The Code}{2}{subsection.1.3}%
+\contentsline {paragraph}{}{2}{section*.8}%
+\contentsline {paragraph}{}{2}{section*.9}%
+\contentsline {paragraph}{}{2}{section*.10}%
+\contentsline {paragraph}{}{2}{section*.11}%
+\contentsline {paragraph}{}{2}{section*.12}%
+\contentsline {paragraph}{}{2}{section*.13}%
+\contentsline {paragraph}{}{2}{section*.14}%
+\contentsline {section}{\numberline {2}Classical Cryptosystems}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Letter Frequency Calculation}{3}{subsection.2.1}%
+\contentsline {paragraph}{}{3}{section*.15}%
+\contentsline {subsection}{\numberline {2.2}Affine Cipher}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Description}{4}{subsubsection.2.2.1}%
+\contentsline {paragraph}{}{4}{section*.16}%
+\contentsline {paragraph}{}{4}{section*.17}%
+\contentsline {subsubsection}{\numberline {2.2.2}Encoding}{4}{subsubsection.2.2.2}%
+\contentsline {paragraph}{}{4}{section*.18}%
+\contentsline {paragraph}{}{4}{section*.19}%
+\contentsline {paragraph}{}{4}{section*.20}%
+\contentsline {paragraph}{}{5}{section*.21}%
+\contentsline {subsubsection}{\numberline {2.2.3}Decoding}{5}{subsubsection.2.2.3}%
+\contentsline {paragraph}{}{5}{section*.22}%
+\contentsline {paragraph}{}{5}{section*.23}%
+\contentsline {paragraph}{}{5}{section*.24}%
+\contentsline {paragraph}{}{5}{section*.25}%
+\contentsline {subsubsection}{\numberline {2.2.4}Attacking: Ciphertext Only}{5}{subsubsection.2.2.4}%
+\contentsline {paragraph}{}{5}{section*.26}%
+\contentsline {paragraph}{}{6}{section*.27}%
+\contentsline {subsubsection}{\numberline {2.2.5}Attacking: Knowing a Mapping Between Plaintext and Ciphertext}{6}{subsubsection.2.2.5}%
+\contentsline {paragraph}{}{6}{section*.28}%
+\contentsline {paragraph}{}{7}{section*.29}%
+\contentsline {subsection}{\numberline {2.3}Vigenere Cipher}{7}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Description}{7}{subsubsection.2.3.1}%
+\contentsline {paragraph}{}{7}{section*.30}%
+\contentsline {paragraph}{}{7}{section*.31}%
+\contentsline {paragraph}{}{8}{section*.32}%
+\contentsline {paragraph}{}{8}{section*.33}%
+\contentsline {paragraph}{}{8}{section*.34}%
+\contentsline {subsubsection}{\numberline {2.3.2}Encoding}{8}{subsubsection.2.3.2}%
+\contentsline {paragraph}{}{8}{section*.35}%
+\contentsline {paragraph}{}{8}{section*.36}%
+\contentsline {subsubsection}{\numberline {2.3.3}Decoding}{9}{subsubsection.2.3.3}%
+\contentsline {paragraph}{}{9}{section*.37}%
+\contentsline {subsubsection}{\numberline {2.3.4}Attacking}{9}{subsubsection.2.3.4}%
+\contentsline {paragraph}{}{9}{section*.38}%
+\contentsline {paragraph}{}{9}{section*.39}%
+\contentsline {paragraph}{Find Key Length}{9}{section*.40}%
+\contentsline {paragraph}{}{10}{section*.41}%
+\contentsline {paragraph}{}{10}{section*.42}%
+\contentsline {paragraph}{}{10}{section*.43}%
+\contentsline {paragraph}{Determining the Key}{10}{section*.44}%
+\contentsline {paragraph}{}{10}{section*.45}%
+\contentsline {paragraph}{}{10}{section*.46}%
+\contentsline {paragraph}{}{11}{section*.47}%
+\contentsline {paragraph}{Testing Out the Key}{11}{section*.48}%
+\contentsline {paragraph}{}{11}{section*.49}%
+\contentsline {subsection}{\numberline {2.4}ADFGX Cipher}{11}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Description}{11}{subsubsection.2.4.1}%
+\contentsline {paragraph}{}{11}{section*.50}%
+\contentsline {paragraph}{}{11}{section*.51}%
+\contentsline {paragraph}{}{12}{section*.52}%
+\contentsline {paragraph}{}{12}{section*.53}%
+\contentsline {paragraph}{}{12}{section*.54}%
+\contentsline {subsubsection}{\numberline {2.4.2}Encoding}{12}{subsubsection.2.4.2}%
+\contentsline {paragraph}{}{12}{section*.55}%
+\contentsline {paragraph}{}{13}{section*.56}%
+\contentsline {paragraph}{}{13}{section*.57}%
+\contentsline {paragraph}{}{13}{section*.58}%
+\contentsline {paragraph}{}{13}{section*.59}%
+\contentsline {subsubsection}{\numberline {2.4.3}Decoding}{13}{subsubsection.2.4.3}%
+\contentsline {paragraph}{}{13}{section*.60}%
+\contentsline {paragraph}{}{13}{section*.61}%
+\contentsline {paragraph}{}{14}{section*.62}%
+\contentsline {paragraph}{}{14}{section*.63}%
+\contentsline {paragraph}{}{14}{section*.64}%
+\contentsline {subsection}{\numberline {2.5}Hill Cipher}{14}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Description}{14}{subsubsection.2.5.1}%
+\contentsline {paragraph}{}{14}{section*.65}%
+\contentsline {paragraph}{}{14}{section*.66}%
+\contentsline {paragraph}{}{15}{section*.67}%
+\contentsline {paragraph}{}{15}{section*.68}%
+\contentsline {paragraph}{}{15}{section*.69}%
+\contentsline {subsubsection}{\numberline {2.5.2}Encoding}{15}{subsubsection.2.5.2}%
+\contentsline {paragraph}{}{15}{section*.70}%
+\contentsline {paragraph}{}{16}{section*.71}%
+\contentsline {paragraph}{}{16}{section*.72}%
+\contentsline {paragraph}{}{16}{section*.73}%
+\contentsline {paragraph}{}{16}{section*.74}%
+\contentsline {paragraph}{}{16}{section*.75}%
+\contentsline {paragraph}{}{17}{section*.76}%
+\contentsline {paragraph}{}{17}{section*.77}%
+\contentsline {paragraph}{}{17}{section*.78}%
+\contentsline {subsubsection}{\numberline {2.5.3}Decoding}{17}{subsubsection.2.5.3}%
+\contentsline {paragraph}{}{17}{section*.79}%
+\contentsline {paragraph}{}{17}{section*.80}%
+\contentsline {section}{\numberline {3}Basic Number Theory}{18}{section.3}%
+\contentsline {subsection}{\numberline {3.1}GCD}{18}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Description}{18}{subsubsection.3.1.1}%
+\contentsline {paragraph}{}{18}{section*.81}%
+\contentsline {paragraph}{}{18}{section*.82}%
+\contentsline {paragraph}{}{18}{section*.83}%
+\contentsline {subsubsection}{\numberline {3.1.2}Using the Method}{18}{subsubsection.3.1.2}%
+\contentsline {paragraph}{}{18}{section*.84}%
+\contentsline {paragraph}{}{19}{section*.85}%
+\contentsline {paragraph}{}{19}{section*.86}%
+\contentsline {subsection}{\numberline {3.2}Extended GCD}{19}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Description \& Use}{19}{subsubsection.3.2.1}%
+\contentsline {paragraph}{}{19}{section*.87}%
+\contentsline {paragraph}{}{19}{section*.88}%
+\contentsline {paragraph}{}{19}{section*.89}%
+\contentsline {subsubsection}{\numberline {3.2.2}Considerations}{20}{subsubsection.3.2.2}%
+\contentsline {paragraph}{}{20}{section*.90}%
+\contentsline {subsection}{\numberline {3.3}Finding Modular Inverse}{20}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Description}{20}{subsubsection.3.3.1}%
+\contentsline {paragraph}{}{20}{section*.91}%
+\contentsline {paragraph}{}{20}{section*.92}%
+\contentsline {subsubsection}{\numberline {3.3.2}Using the Method}{20}{subsubsection.3.3.2}%
+\contentsline {paragraph}{}{20}{section*.93}%
+\contentsline {paragraph}{}{21}{section*.94}%
+\contentsline {subsubsection}{\numberline {3.3.3}Considerations}{21}{subsubsection.3.3.3}%
+\contentsline {paragraph}{}{21}{section*.95}%
+\contentsline {paragraph}{}{21}{section*.96}%
+\contentsline {paragraph}{}{21}{section*.97}%
+\contentsline {subsection}{\numberline {3.4}Finding Modular Inverse of a Matrix}{21}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Description}{21}{subsubsection.3.4.1}%
+\contentsline {paragraph}{}{21}{section*.98}%
+\contentsline {paragraph}{}{22}{section*.99}%
+\contentsline {subsubsection}{\numberline {3.4.2}Using the Method}{22}{subsubsection.3.4.2}%
+\contentsline {paragraph}{}{22}{section*.100}%
+\contentsline {paragraph}{}{22}{section*.101}%
+\contentsline {subsubsection}{\numberline {3.4.3}Considerations}{22}{subsubsection.3.4.3}%
+\contentsline {paragraph}{}{22}{section*.102}%
+\contentsline {paragraph}{}{22}{section*.103}%
+\contentsline {subsection}{\numberline {3.5}Primality Test}{22}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Description}{22}{subsubsection.3.5.1}%
+\contentsline {paragraph}{}{22}{section*.104}%
+\contentsline {paragraph}{}{23}{section*.105}%
+\contentsline {paragraph}{}{23}{section*.106}%
+\contentsline {subsubsection}{\numberline {3.5.2}Using the Method}{23}{subsubsection.3.5.2}%
+\contentsline {paragraph}{}{23}{section*.107}%
+\contentsline {paragraph}{}{23}{section*.108}%
+\contentsline {paragraph}{}{24}{section*.109}%
+\contentsline {subsubsection}{\numberline {3.5.3}Considerations}{24}{subsubsection.3.5.3}%
+\contentsline {paragraph}{}{24}{section*.110}%
+\contentsline {paragraph}{}{24}{section*.111}%
+\contentsline {subsection}{\numberline {3.6}Generating a Random Prime}{24}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Description and Use}{24}{subsubsection.3.6.1}%
+\contentsline {paragraph}{}{24}{section*.112}%
+\contentsline {paragraph}{}{24}{section*.113}%
+\contentsline {paragraph}{}{25}{section*.114}%
+\contentsline {subsubsection}{\numberline {3.6.2}Considerations}{25}{subsubsection.3.6.2}%
+\contentsline {paragraph}{}{25}{section*.115}%
+\contentsline {paragraph}{}{25}{section*.116}%
+\contentsline {subsection}{\numberline {3.7}Factoring a Composite}{25}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Description}{25}{subsubsection.3.7.1}%
+\contentsline {paragraph}{}{25}{section*.117}%
+\contentsline {paragraph}{}{25}{section*.118}%
+\contentsline {paragraph}{Fermat's Method}{25}{section*.119}%
+\contentsline {paragraph}{}{26}{section*.120}%
+\contentsline {paragraph}{Pollard Rho}{26}{section*.121}%
+\contentsline {paragraph}{}{26}{section*.122}%
+\contentsline {paragraph}{}{27}{section*.123}%
+\contentsline {paragraph}{Pollard p-1}{27}{section*.124}%
+\contentsline {paragraph}{}{27}{section*.125}%
+\contentsline {subsubsection}{\numberline {3.7.2}Using the Method}{28}{subsubsection.3.7.2}%
+\contentsline {paragraph}{}{28}{section*.126}%
+\contentsline {paragraph}{}{28}{section*.127}%
+\contentsline {paragraph}{}{28}{section*.128}%
+\contentsline {section}{\numberline {4}Data Encryption Standard}{29}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Simplified DES}{29}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Overview}{29}{subsubsection.4.1.1}%
+\contentsline {paragraph}{}{29}{section*.129}%
+\contentsline {paragraph}{}{29}{section*.130}%
+\contentsline {subsubsection}{\numberline {4.1.2}Encryption}{29}{subsubsection.4.1.2}%
+\contentsline {paragraph}{}{29}{section*.131}%
+\contentsline {paragraph}{}{29}{section*.132}%
+\contentsline {paragraph}{}{29}{section*.133}%
+\contentsline {subsubsection}{\numberline {4.1.3}Decryption}{30}{subsubsection.4.1.3}%
+\contentsline {paragraph}{}{30}{section*.134}%
+\contentsline {paragraph}{}{30}{section*.135}%
+\contentsline {section}{\numberline {5}RSA}{30}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Description}{30}{subsection.5.1}%
+\contentsline {paragraph}{}{30}{section*.136}%
+\contentsline {paragraph}{}{30}{section*.137}%
+\contentsline {paragraph}{}{31}{section*.138}%
+\contentsline {subsection}{\numberline {5.2}Using the Method}{31}{subsection.5.2}%
+\contentsline {paragraph}{}{31}{section*.139}%
+\contentsline {paragraph}{}{31}{section*.140}%
+\contentsline {paragraph}{}{31}{section*.141}%
+\contentsline {paragraph}{}{31}{section*.142}%
+\contentsline {paragraph}{}{32}{section*.143}%
+\contentsline {paragraph}{}{32}{section*.144}%
+\contentsline {paragraph}{}{32}{section*.145}%
+\contentsline {paragraph}{}{32}{section*.146}%
+\contentsline {paragraph}{}{32}{section*.147}%
+\contentsline {subsection}{\numberline {5.3}Considerations}{32}{subsection.5.3}%
+\contentsline {paragraph}{}{32}{section*.148}%
